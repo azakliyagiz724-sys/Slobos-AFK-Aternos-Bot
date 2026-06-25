@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7eresmismp.aternos.me",
-    "port": 16298,
-    "version": "",
+    "ip": "QuantumFoam.aternos.me",
+    "port": 48736,
+    "version": 26.2,
     "try-creative": false
   },
   "position": {
